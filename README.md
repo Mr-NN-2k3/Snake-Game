@@ -61,11 +61,6 @@ g++ -std=c++17 -O2 -pthread snake_master.cpp -o snake_master
 g++ -std=c++17 -O2 snake_master.cpp -o snake_master.exe
 ```
 
-#### Windows (Visual Studio)
-```bash
-cl /EHsc /std:c++17 /O2 snake_master.cpp
-```
-
 #### Running the Game
 ```bash
 # Linux/macOS
